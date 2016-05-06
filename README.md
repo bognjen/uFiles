@@ -1,4 +1,4 @@
-# uFiles
-New repository for uFiles
+# uFiles Readme
 
-The main idea of this project is Fully Asynchronous ASP.NET MVC Upload of Single and Multiple Files.
+The main idea of this project is make fully asynchronous ASP.NET MVC Upload control of Single and Multiple Files.
+
